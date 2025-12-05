@@ -20,14 +20,10 @@ Clear comparison of each bowler’s efficiency across phases
 
 Role Classification for Batters
 Scatter plot classifying batters into:
-Power Hitters
-Anchors
-Balanced
-Strugglers
+Power Hitters, Anchors, Balanced and Strugglers
 
 Based on:
-Boundary %
-Strike Rotation %
+Boundary % and Strike Rotation %
 
 🧮 Key Metrics (DAX + Logic)
 Batting
@@ -35,28 +31,19 @@ Boundary % = Runs from 4s + 6s vs Balls faced
 Strike Rotation % = Singles/Doubles/Triples vs balls faced
 
 Bowling
-Economy by phase
+Economy by phase,
 Death-overs performance (min overs bowled)
 
 🧰 Skills Demonstrated
-Data modelling (fact + dimension)
-DAX calculations
-Power Query transformations
-Visual analytics (scatter role chart, bar charts, tables)
+Data modelling (fact + dimension),
+DAX calculations,
+Power Query transformations,
+Visual analytics (scatter chart, bar charts, tables) and 
 KPI design and cricket logic
-
-▶️ How to Open
-Install Git LFS
-Clone repo
-Open .pbix in Power BI Desktop
-Refresh data if required
 
 📌 Notes
 Built from publicly available IPL 2024 ball-by-ball data
 Designed for portfolio demonstration and performance analysis
 
 Screenshot
-Dashboard look like: https://github.com/Aniket-Belhekar1/IPL-2024-Analysis/blob/main/Snapshot%20of%20the%20Dashboard.png
-Built from publicly available IPL 2024 ball-by-ball data
-
-Designed for portfolio demonstration and performance analysis
+Dashboard: https://github.com/Aniket-Belhekar1/IPL-2024-Analysis/blob/main/Snapshot%20of%20the%20Dashboard.png
